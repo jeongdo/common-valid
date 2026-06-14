@@ -1,0 +1,10 @@
+plugins {
+    id 'java-library'
+}
+
+group = 'me.jeongdo.common'
+version = '0.01'
+
+repositories {
+    mavenCentral()
+}
